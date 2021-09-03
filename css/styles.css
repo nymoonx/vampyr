@@ -1,9 +1,7 @@
-
 @font-face {
   font-family: greatvictorian;
   src: url(../fonts/great-victorian.swashed.otf);
 }
-
 
 body {
   background-image: url(https://wallpapersbook.com/wp-content/uploads/2020/09/red-moon-background.jpg);
@@ -12,10 +10,9 @@ body {
 .titulo {
   text-align: center;
 
-  font-size:80px;
-	font-family:greatvictorian;
+  font-size: 80px;
+  font-family: greatvictorian;
   text-transform: uppercase;
-	
- 
-}
 
+  text-shadow: 2px 2px 2px darkred;
+}
